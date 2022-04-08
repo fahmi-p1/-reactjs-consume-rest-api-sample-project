@@ -18,7 +18,7 @@ npm install
 cd sample-project-repositores
 npm start
 ```
-5. It will redirect to browser and open your project in localhsot. Enjoy!
+5. It will redirect to browser and open your project in localhost. Enjoy!
 
 ## API Documentation
 [See API documentations here](https://movie-api-test.nbagroup.co.id/)
